@@ -1,0 +1,6 @@
+{
+  "global": {
+    "cmd-w": "mod.open:close-tab-guard",
+    "cmd-shift-w": "mod.open:close-pane-guard"
+  }
+}
